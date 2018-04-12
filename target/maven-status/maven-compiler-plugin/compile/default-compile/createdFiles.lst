@@ -1,0 +1,10 @@
+com\hexa\entity\Specialization.class
+com\hexa\service\ServiceHexa.class
+com\hexa\entity\DoctorSchedule.class
+com\hexa\entity\Appointment.class
+com\hexa\web\ViewController.class
+com\hexa\dao\HexaCareRemote.class
+com\hexa\dao\HexaCareImplementation.class
+com\hexa\entity\Doctors.class
+com\hexa\SpringBootHexaCareApplication.class
+com\hexa\service\ServiceRemote.class

@@ -1,0 +1,13 @@
+hr {
+	height: 3px;
+	background-color: red;
+	box-shadow: 5px 5px 5px black;
+}
+header span {
+	
+	font-size: 50px;
+	color: lightblue;
+	text-shadow: 2px 2px 2px gray;
+	font-family: fantasy;
+
+}

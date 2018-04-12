@@ -1,0 +1,110 @@
+header span {
+	font-size: 48px;
+	text-shadow: 2px 2px 2px gray;
+	font-family: Georgia, Helvetica, sans-serif;
+	font-weight: bolder;
+}
+
+header {
+	text-align: center;
+}
+
+#home a {
+	background-color: lightblue;
+	color: black;
+	padding: 30px;
+	box-shadow: 5px 5px 5px black;
+	border-radius: 5px;
+	line-height: 60px;
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#home a:hover {
+	background-color: white;
+	color: #FF6633;
+}
+
+table {
+	margin: 0 auto;
+	border-collapse: collapse;
+}
+
+#padd td, th, tr {
+	padding: 30px;
+	height: 50px;
+}
+
+section {
+	min-height: 500px;
+	background-image: url("HexacareImages/bg.jpg");
+}
+
+#docsec {
+	background-color: lightblue;
+	min-height: 450px;
+}
+
+.rowcolor tr:nth-child(odd) {
+	background-color: #d1e7e9;
+	text-align: center;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+
+.rowcolor tr:nth-child(even) {
+	background-color: #c2fbfe;
+	text-align: center;
+	font-weight: bold;
+}
+
+.rowcolor th {
+	background-color: #91e1f2;
+	color: white;
+	font-size: 20px;
+}
+
+#spec th {
+	height: 10px;
+	padding: 30px;
+	border-collapse: collapse;
+}
+
+#spec td {
+	padding: 30px;
+	height: 10px;
+	border-collapse: collapse;
+}
+
+h2 {
+	font-size: 30px;
+	font-family: serif;
+	color: #0f6d9b;
+	text-align: center;
+}
+
+#his {
+	min-height: 500px;
+	background-color: lightblue;
+}
+
+#background {
+	background: -webkit-linear-gradient(left, lightblue, white, lightblue, white,
+		lightblue);
+}
+
+footer img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 50px;
+	width: 50px;
+}
+
+#apt td, th {
+	padding: 20px;
+	height: 50px;
+	font-size: 20px;
+	font-weight: bolder;
+}
